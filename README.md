@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Facceeehhiilrs%2Fflann.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Facceeehhiilrs%2Fflann?ref=badge_shield)
+
 FLANN - Fast Library for Approximate Nearest Neighbors
 ======================================================
 
@@ -34,3 +36,7 @@ Bug reporting
 -------------
 
 Please report bugs or feature requests using [github's issue tracker](http://github.com/mariusmuja/flann/issues).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Facceeehhiilrs%2Fflann.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Facceeehhiilrs%2Fflann?ref=badge_large)
